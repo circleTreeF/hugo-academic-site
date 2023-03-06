@@ -6,11 +6,11 @@ title: Yizirui Fang (方易子睿)
 first_name: Yizirui 
 last_name: Fang
 
-[//]: # (# Status emoji)
+# Status emoji
 
-[//]: # (status:)
+status:
 
-[//]: # (  icon: ☕️)
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
